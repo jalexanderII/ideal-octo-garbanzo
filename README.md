@@ -1,4 +1,4 @@
-# Zero
+# ZeroFinTech
 
 A new Flutter project.
 
